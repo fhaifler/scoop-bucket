@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/fhaifler/hello/releases/download/v0.1.1/hello_v0.1.1_windows_386.tar.gz",
+            "url": "https://github.com/fhaifler/hello/releases/download/v0.1.2/hello_v0.1.2_windows_386.tar.gz",
             "bin": [
                 "hello.exe"
             ],
-            "hash": "dbbf49c06e511ea09900d633209c5a4d30b8fd08e4b82382a08af009f32414b2"
+            "hash": "3b45b21c1e2f35399fa446d4e9675840bd06245b2f1556f40ccde1501b0f71fa"
         },
         "64bit": {
-            "url": "https://github.com/fhaifler/hello/releases/download/v0.1.1/hello_v0.1.1_windows_amd64.tar.gz",
+            "url": "https://github.com/fhaifler/hello/releases/download/v0.1.2/hello_v0.1.2_windows_amd64.tar.gz",
             "bin": [
                 "hello.exe"
             ],
-            "hash": "4f89641f6d0a34f8971d1fdf90f9ff898ef68af72d4fba7ceafeb76baa6a985f"
+            "hash": "626b960fa099993211266ad717bcd711ec98b6109793cfefb1c0405d7f22c90d"
         }
     },
     "homepage": "https://github.com/fhaifler/hello",
